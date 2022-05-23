@@ -40,6 +40,3 @@ In general for an agent the probability that they didn’t leak either of them:
 P = [1 – (1-p)/N1]* [1 – (1-p)/N2]*…. [1 – (1-p)/Ni] Where,
 i: Number of leaked files the current agent has accessed
 Ni: Number of agents that have access to the file i
-
-
-
