@@ -1,9 +1,7 @@
-# Information-Security-Management-Project
-
-Data Leakage Detection and Prevention Using Probability Based Approach
+# Data Leakage Detection and Prevention Using Probability Based Approach
 
 
-Abstract:
+## Abstract:
 
 Current statistics from different security association research firms and government organizations recommend that there has been a fast growth of data leaks in past 8 years and as present, the world
 for the most part relies upon exchange of information i.e. transfer of data from one individual to another individual which is also known as distributary system. The data that is sent from the
@@ -13,7 +11,7 @@ different agents who cause an enormous harm to the institute and this process of
 data from being open source. This project deals with shielding the data from being outsourced by giving a special inscription to the sensitive data so that it cannot be replicated.
 
 
-Problem Statement and Objective:
+## Problem Statement and Objective:
 
 Throughout the course of doing business, once in a while sensitive data must be given over to supposedly trusted third parties. For instance, an organization may have partnerships with different
 organizations that require sharing of client data. Another venture may redistribute its data processing, so data must be given to various other organizations. The owner of the data is the
@@ -22,7 +20,7 @@ aim is to build an application that will additionally monitor if on the off chan
 given set of agents which has leaked the data using probability distribution.
 
 
-Proposed Method:
+## Proposed Method:
 
 The model developed is used for calculating the probability of an agent being a leaker. For distributing objects to the agents, a key based approach is used where the agent has to request the
 key access to the admin. Records of this are maintained to enhance the chances of identifying the leaker of the data. If we encounter a data set that is leaked, we calculate the probability of each
@@ -43,7 +41,7 @@ Ni: Number of agents that have access to the file i
 
 
 
-Successful Attack Prevention against:
+## Successful Attack Prevention against:
 1. Brute Force Attack
 2. HTML Injection
 3. Sql Injection
